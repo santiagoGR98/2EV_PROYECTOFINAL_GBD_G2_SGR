@@ -71,8 +71,8 @@ db.Personas.aggregate(
 a cada usuario el total de las cuotas de las redes sociales en las que están
 inscritos, además de comparar las horas de uso que hace el usuario con
 las horas de uso que cada una de las redes sociales estima que cada usuario hace
-de media. Una sepamos los datos referentes a las horas de uso clasificaremos a los usuarios
-en aquellos que hacen un uso por debado de la media, los que hacen uso igual al estimado en la media y
+de media. Una vez sepamos los datos referentes a las horas de uso clasificaremos a los usuarios
+en aquellos que hacen un uso por debajo de la media, los que hacen uso igual al estimado en la media y
 los que hacen uso por encima de la media*/
 
 db.Personas.aggregate(
