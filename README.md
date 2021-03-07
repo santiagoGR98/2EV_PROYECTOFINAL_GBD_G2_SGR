@@ -1,4 +1,4 @@
-# 2EV_PROYECTOFINAL_GBD_G2_SGR
+# 2EV_PROYECTOFINAL_GBD_G2_SGR SANTIAGO GUTIÉRREZ ROMERO
 Proyecto final del módulo de BASES DE DATOS NOSQL realizado por Santiago Gutiérrez Romero alumno del grupo de 2 de 1º de ASIR I.E.S. Punta del verde
 
 El siguiente proyecto está enfocado en una empresa de data Brokers en la cual se dedican a la compra y venta de datos.
